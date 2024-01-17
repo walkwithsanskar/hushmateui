@@ -1,4 +1,4 @@
-const url = "http://localhost:4000/"
+const url = "https://hushmate-backend.onrender.com/"
 // process.env.REACT_APP_BASE_URL||
 export const authRoutes = {
     SIGN_UP:url+"apiv1/auth/signup",
