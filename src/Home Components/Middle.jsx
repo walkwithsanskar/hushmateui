@@ -7,7 +7,7 @@ const Middle = () => {
         
         <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
         <img
-        src="https://media.giphy.com/media/z3ZzHIN66i7X6KAbxh/giphy.gif"
+        src="https://res.cloudinary.com/de3kih2zs/image/upload/v1705498448/giphy_zq7ija.gif"
         alt="Among Us GIF"
         className="mx-auto mb-6 mt-4 " // Adjust margin-bottom as needed
         onError={(e) => {
